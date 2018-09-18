@@ -1,0 +1,23 @@
+{
+  "name": "sophia-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Server for Zelp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2-hangry/sophia-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2-hangry/sophia-proxy/issues"
+  },
+  "homepage": "https://github.com/2-hangry/sophia-proxy#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
